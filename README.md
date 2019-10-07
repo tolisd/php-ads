@@ -1,2 +1,2 @@
 # php-ads
-a php project for displaying ads
+a php project for displaying classified ads
